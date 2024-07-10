@@ -1,1 +1,1 @@
-# CML_Sharepoint_Connector
+# CML Sharepoint Connector
